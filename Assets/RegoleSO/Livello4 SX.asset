@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3e1b0c9d094f44b9ad79d6480f1132, type: 3}
+  m_Name: Livello4 SX
+  m_EditorClassIdentifier: Assembly-CSharp::Regole
+  modalitaPunteggio: 0
+  coloreDaColpire: 0
+  tempoMax: 150
+  taskCognitivo: 1
+  operazioni:
+  - 7 - 4 = ?
+  - 6 - 2 = ?
+  - 15 - 7 = ?
+  - 22 - 11 = ?
+  - 44 - 16 = ?
+  - 56 - 45 = ?
+  - 63 - 54 = ?
+  intervalloSpawn: 2
+  velocita: 0.5
+  altezzaMax: 2.5
