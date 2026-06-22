@@ -16,7 +16,7 @@ public class SalvataggioDati : MonoBehaviour
 
     // Credenziali email 
     private const string MITTENTE = "PallonciniParkinson@gmail.com";
-    private const string APP_PASSWORD = "eztvryqyqatiovxs"; // con spazi rimossi
+    private const string APP_PASSWORD = "****************"; // con spazi rimossi
     private const string DESTINATARIO = "parkinsonapp.dati@proton.me";
 
     private class DatiSessione
