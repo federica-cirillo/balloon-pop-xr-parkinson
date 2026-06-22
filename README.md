@@ -44,8 +44,6 @@ the server automatically over the LAN, hit validation runs server-side, and game
 to all devices. Session data are saved locally on the PC as JSON and can be browsed from a dedicated
 panel.
 
----
-
 ## Tech stack
 
 - **Engine:** Unity 6 LTS
@@ -54,8 +52,6 @@ panel.
 - **Networking:** PurrNet (LAN discovery + UDP, authoritative server)
 - **Data:** JSON serialisation, SMTP e-mail transmission (single-player)
 - **Analysis:** Python / Google Colab (questionnaire scoring and statistics)
-
----
 
 ## Repository structure
 
@@ -73,8 +69,6 @@ panel.
 Auto-generated Unity folders (`Library/`, `Temp/`, `Obj/`, `Build/`, `Logs/`,
 `UserSettings/`) are intentionally excluded — they are rebuilt by Unity when the project is opened.
 
----
-
 ## Getting started
 
 1. Clone the repository:
@@ -89,8 +83,6 @@ Auto-generated Unity folders (`Library/`, `Temp/`, `Obj/`, `Build/`, `Logs/`,
 > app password. Make sure no real credentials are committed to the repository; keep them in a local,
 > untracked configuration.
 
----
-
 ## Evaluation
 
 The single-player system was evaluated with the **SUS**, **UEQ-S** and **NASA-TLX** questionnaires on
@@ -100,16 +92,12 @@ cognitive and motor workload. Compared with HoloLens, the Meta Quest version ach
 usability and user experience with a **significantly lower subjective workload**, suggesting that the
 new platform preserves system quality while improving accessibility.
 
----
-
 ## Thesis
 
 The complete thesis (in Italian) is available in [`docs/`](docs/). It covers the clinical background
 on Parkinson's disease, serious games and extended reality, the design and implementation of both game
 modes, the experimental protocol, and the discussion of results, with the developed scripts reported
 in the appendix.
-
----
 
 ## Author & supervisors
 
