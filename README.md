@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/286a9b44-85cb-48c6-ae38-81d39d0d424b
 
 Pop as many balloons as possible. Assesses finger-tapping execution.
 
-https://github.com/user-attachments/assets/71aa24f4-8fb6-418a-99e6-38f78d54379a
+https://github.com/user-attachments/assets/a5f7e3f3-c9f4-4413-96f1-4277ee315632
 
 </details>
 
