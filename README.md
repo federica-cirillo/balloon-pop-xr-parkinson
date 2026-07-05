@@ -34,6 +34,53 @@ At the end of a session the system records the level name, the hand used, and th
 hit and missed. Data are serialised to **JSON**, stored in the headset's internal memory, and sent
 automatically to the clinician by e-mail over **SMTP**.
 
+#### 🎥 Level demos
+
+<details>
+<summary><b>Level 0 — Training</b></summary>
+
+Familiarisation with the system.
+
+https://github.com/user-attachments/assets/286a9b44-85cb-48c6-ae38-81d39d0d424b
+
+</details>
+
+<details>
+<summary><b>Level 1 — Baseline</b></summary>
+
+Pop as many balloons as possible. Assesses finger-tapping execution.
+
+https://github.com/user-attachments/assets/71aa24f4-8fb6-418a-99e6-38f78d54379a
+
+</details>
+
+<details>
+<summary><b>Level 2 — Cognitive dual-task</b></summary>
+
+Pop only the yellow balloons. Assesses selective attention and inhibitory control.
+
+https://github.com/user-attachments/assets/7d4627bc-65ed-4cf1-a8b0-4e392b62f8d1
+
+</details>
+
+<details>
+<summary><b>Level 3 — Motor dual-task</b></summary>
+
+Pop balloons while performing contralateral tapping. Assesses bimanual coordination.
+
+https://github.com/user-attachments/assets/c23ae636-c214-456b-bbe6-ef4395b2a6b1
+
+</details>
+
+<details>
+<summary><b>Level 4 — Cognitive dual-task</b></summary>
+
+Finger-tapping combined with spoken subtractions. Assesses executive function.
+
+https://github.com/user-attachments/assets/9a5679c2-d6d5-45cd-ada6-d8f1c98cbc29
+
+</details>
+
 ### Multiplayer (cooperative)
 
 A cooperative two-player level intended to stimulate social interaction and counter the isolation
