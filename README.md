@@ -34,7 +34,7 @@ At the end of a session the system records the level name, the hand used, and th
 hit and missed. Data are serialised to **JSON**, stored in the headset's internal memory, and sent
 automatically to the clinician by e-mail over **SMTP**.
 
-#### 🎥 Level demos
+#### Level demos
 
 <details>
 <summary><b>Level 0 — Training</b></summary>
