@@ -1,5 +1,8 @@
 # Balloon Pop — XR Serious Game for Fine Motor Training in Parkinson's Disease
 
+<img width="317" height="99" alt="Screenshot 2026-07-13 092914" src="https://github.com/user-attachments/assets/4ebd773f-b398-40de-adac-61b71f22b9b7" />
+
+
 A mixed-reality serious game developed in Unity for the **Meta Quest 3S**, designed to assessand train **fine motor skills** in people with early-stage Parkinson's disease. The core interaction is built on the **finger-tapping** gesture, the clinical reference for evaluating bradykinesia.
 This repository hosts the Unity project and the full thesis document produced for the M.Sc. in Biomedical Engineering (LM-21) at the University of Naples Federico II.
 
