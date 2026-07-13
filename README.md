@@ -113,23 +113,6 @@ panel.
 └── ProjectSettings/                         # Unity project settings
 ```
 
-Auto-generated Unity folders (`Library/`, `Temp/`, `Obj/`, `Build/`, `Logs/`,
-`UserSettings/`) are intentionally excluded — they are rebuilt by Unity when the project is opened.
-
-## Getting started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   ```
-2. Open the project with **Unity 6 LTS** through Unity Hub (let it import packages on first launch).
-3. Install the **Meta XR All-in-One SDK** if it is not resolved automatically.
-4. To deploy on device, switch the build target to **Android** and build the APK for the Meta Quest 3S.
-
-> **Note on credentials.** The single-player e-mail export relies on SMTP with a dedicated Google
-> app password. Make sure no real credentials are committed to the repository; keep them in a local,
-> untracked configuration.
-
 ## Evaluation
 
 The single-player system was evaluated with the **SUS**, **UEQ-S** and **NASA-TLX** questionnaires on
